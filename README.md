@@ -1,6 +1,8 @@
 ## Bem vindo ao minha HomePage 
-Conhecimento Retido é Conhecimento Perdido!!!
-[editor on GitHub] (https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg)
+Conhecimento Retido é Conhecimento Perdido!!!<br>
+https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg
+
+
 [editor on GitHub](https://github.com/leandroflorida/leandroflorida.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -24,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/leandroflorida/leandroflorida.github.io/blob/main/The-Mandalorian-Wallpaper2.jpg) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

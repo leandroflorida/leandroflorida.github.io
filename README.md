@@ -4,9 +4,9 @@
 ###### acesse meu Canal no youtube onde gravo vídeos com dicas e notícias de Cibernética.
 
 Acesse [youtube channel](https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg)
-![image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-![The-Mandalorian-Wallpaper2](https://user-images.githubusercontent.com/29949031/157564675-b2d4894a-bbff-482a-9006-e6df94e89d62.jpg)
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/29949031/157564675-b2d4894a-bbff-482a-9006-e6df94e89d62.jpg" width="500px" />
+  </div>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

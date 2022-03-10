@@ -1,6 +1,5 @@
 # Bem Vindo a minha HomePage
-
-## Conhecimento Retido é Conhecimento Perdido!!!!This is the way...Como dever ser....
+## Conhecimento Retido é Conhecimento Perdido!!!!<br>This is the way...Como dever ser....</br>
 ###### acesse meu Canal no youtube onde gravo vídeos com dicas e notícias de Cibernética.
 
 Acesse [youtube channel](https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg)

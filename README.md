@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+# Bem Vindo a minha HomePage
 
-You can use the [editor on GitHub](https://github.com/leandroflorida/leandroflorida.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Conhecimento Retido é Conhecimento Perdido!!!!This is the way...Como dever ser....
+###### acesse meu Canal no youtube onde gravo vídeos com dicas e notícias de Cibernética.
+
+Acesse [youtube channel](https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg)
+![This is an image](https://github.com/leandroflorida/leandroflorida.github.io/blob/main/The-Mandalorian-Wallpaper2.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

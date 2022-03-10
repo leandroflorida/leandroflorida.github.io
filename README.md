@@ -1,15 +1,18 @@
-# Bem Vindo a minha HomePage
+# Welcome to my home page
 ## Conhecimento Retido é Conhecimento Perdido!!!!<br>This is the way...Como dever ser....
 ###### acesse meu Canal no youtube onde gravo vídeos com dicas e notícias de Cibernética.
 
-Acesse [youtube channel](https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg)
+Acesse [youtube channel](https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg)<br>
+[Linkedin](https://www.linkedin.com/in/bigleon/)
 <div align="left">
   <img src="https://user-images.githubusercontent.com/29949031/157564675-b2d4894a-bbff-482a-9006-e6df94e89d62.jpg" width="500px" />
   </div>
+  
+### Resumo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sou um profissional de CyberSecurity com mais de 5 anos de experiência.
 
-### Markdown
+### Free Tools
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -5,6 +5,7 @@
 
 Acesse [youtube channel](https://www.youtube.com/channel/UCSMFVdZKbUX-jGom5YYCPsg)
 ![This is an image](https://github.com/leandroflorida/leandroflorida.github.io/blob/main/The-Mandalorian-Wallpaper2.jpg)
+![image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

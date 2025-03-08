@@ -58,7 +58,7 @@ def buscar_versiculo_salmos():
         texto = versiculo["text"]
         referencia = dados["reference"]  # A referência está no nível superior da resposta
 
-        return f"Versículo aleatório de Salmos:\n{texto}\nReferência: {referencia}"
+        return f"Versículo aleatório de Salmos:\n{texto}\nReference: {referencia}"
     except requests.exceptions.RequestException as e:
         return f"Erro ao buscar o versículo: {e}"
     except KeyError as e:
@@ -71,7 +71,7 @@ def main():
     print(versiculo)  # Exibe o versículo no terminal
 
     # Coletar trending topics
-    print("\nTrending Topics do Twitter:")
+    print("\n#peace")
     trend_names = coletar_trending_topics()
     for trend in trend_names:
         print(trend)  # Exibe cada trending topic sem numeração
